@@ -1,6 +1,6 @@
-## Peace be upon you. Welcome to my GitHub! 👋
+## As-Salaam-Alaikum (Peace be upon you). Welcome to my GitHub! 👋
 I am **Mosharrf Hossain**,  you can also call me **Mohon**.
- A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
  [![Gmail Badge](https://img.shields.io/badge/-mohon.diit33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohon.diit33@gmail.com)](mailto:mohon.diit33@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-mhmohon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhmohon)](https://www.linkedin.com/in/mhmohon) [![Facebook Badge](https://img.shields.io/badge/-mhmohon-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mh.mohon.71)](https://www.facebook.com/mh.mohon.71)
 
@@ -9,7 +9,7 @@ I am **Mosharrf Hossain**,  you can also call me **Mohon**.
 - 👨🏽‍💻 I’m currently working on a **FinTech Project**.
 - 🌱 I’m currently exploring **Nodejs** with **Express js** to become a **MERN stack developer**. 
 - 🤔 My interest lies in back end web development.
-- 💬 Ask me about **PHP, Laravel**!
+- 💬 Ask me about **PHP** and **Laravel Framework**! 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
