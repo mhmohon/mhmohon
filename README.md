@@ -31,7 +31,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
 
-![MhMohon's github stats](https://github-readme-stats.vercel.app/api?username=mhmohon&count_private=true&show_icons=true&theme=shades-of-purple&icon_color=fad000&count_private=true)
+![MhMohon's github stats](https://github-readme-stats.vercel.app/api?username=mhmohon&count_private=true&hide=issues,contribs&show_icons=true&theme=shades-of-purple&icon_color=fad000&count_private=true)
 ![MhMohon's github Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmohon&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmohon&layout=compact&theme=shades-of-purple&icon_color=fad000)
 ### 🧑‍💻  This week, I spent my time on:
 ![mhmohon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhmohon&v=2&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)
